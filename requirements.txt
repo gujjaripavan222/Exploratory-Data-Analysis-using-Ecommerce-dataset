@@ -1,5 +1,22 @@
-pandas
-numpy 
-matplotlib
-seaborn
-plotly
+# ============================================================
+# Exploratory Data Analysis — E-Commerce Dataset
+# Requirements File
+# Python >= 3.9 recommended
+# Install: pip install -r requirements.txt
+# ============================================================
+
+# Data Manipulation & Analysis
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data Visualization — Static
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Data Visualization — Interactive
+plotly>=5.14.0
+
+# Jupyter Notebook Support (optional but recommended)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+nbformat>=5.7.0
