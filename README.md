@@ -15,7 +15,8 @@
 
 <br>
 
-[![View Dataset](https://img.shields.io/badge/👁️%20View%20Dataset-data.csv-blue?style=for-the-badge)](https://github.com/gujjaripavan222/Exploratory-Data-Analysis-using-Ecommerce-dataset/blob/main/data.csv)
+[![UCI Repository](https://img.shields.io/badge/UCI-Dataset%20Source-orange?style=for-the-badge)](https://archive.ics.uci.edu/dataset/352/online+retail)
+[![Kaggle](https://img.shields.io/badge/Kaggle-View%20Dataset-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
 </div>
 
@@ -31,8 +32,8 @@ This project performs a comprehensive **Exploratory Data Analysis (EDA)** on a U
 - Price distribution analysis and anomaly detection
 - Identification of free/promotional products
 
-> **Dataset Source:** UCI Machine Learning Repository — [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
-> **View Dataset:** [Browse data.csv on GitHub](https://github.com/gujjaripavan222/Exploratory-Data-Analysis-using-Ecommerce-dataset/blob/main/data.csv)
+> **Dataset Source:** [UCI Machine Learning Repository — Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+> **Interactive Preview:** [View & explore on Kaggle](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
 ---
 
@@ -54,14 +55,33 @@ Exploratory-Data-Analysis-using-Ecommerce-dataset/
 
 <div align="center">
 
-[![View Dataset](https://img.shields.io/badge/👁️%20View%20Dataset-data.csv-blue?style=for-the-badge)](https://github.com/gujjaripavan222/Exploratory-Data-Analysis-using-Ecommerce-dataset/blob/main/data.csv)
+[![UCI Repository](https://img.shields.io/badge/🏛️%20UCI%20Repository-Online%20Retail%20Dataset-orange?style=for-the-badge)](https://archive.ics.uci.edu/dataset/352/online+retail)
+&nbsp;
+[![View on Kaggle](https://img.shields.io/badge/📊%20View%20on%20Kaggle-Online%20Retail-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/vijayuv/onlineretail)
 
 </div>
 
-Click the button above to **browse the dataset** directly on GitHub. If you need the file locally, use the **Download raw file** button on that page (top-right corner).
+<br>
 
-> **Original Source:** [UCI Machine Learning Repository — Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
-> Daqing Chen, Sai Liang Sain, and Kun Guo — *Journal of Database Marketing and Customer Strategy Management*, 2012.
+> **Original Source:** UCI Machine Learning Repository — Daqing Chen, Sai Liang Sain, and Kun Guo, *Journal of Database Marketing and Customer Strategy Management*, 2012.
+> The dataset contains **541,909 transactions** from a UK-based online retailer between **01/12/2010 and 09/12/2011**.
+
+### 🔎 Data Sample (First 10 Rows)
+
+| InvoiceNo | StockCode | Description | Quantity | InvoiceDate | UnitPrice | CustomerID | Country |
+|---|---|---|---|---|---|---|---|
+| 536365 | 85123A | WHITE HANGING HEART T-LIGHT HOLDER | 6 | 2010-12-01 08:26 | 2.55 | 17850 | United Kingdom |
+| 536365 | 71053 | WHITE METAL LANTERN | 6 | 2010-12-01 08:26 | 3.39 | 17850 | United Kingdom |
+| 536365 | 84406B | CREAM CUPID HEARTS COAT HANGER | 8 | 2010-12-01 08:26 | 2.75 | 17850 | United Kingdom |
+| 536365 | 84029G | KNITTED UNION FLAG HOT WATER BOTTLE | 6 | 2010-12-01 08:26 | 3.39 | 17850 | United Kingdom |
+| 536365 | 84029E | RED WOOLLY HOTTIE WHITE HEART | 6 | 2010-12-01 08:26 | 3.39 | 17850 | United Kingdom |
+| 536365 | 22752 | SET 7 BABUSHKA NESTING BOXES | 2 | 2010-12-01 08:26 | 7.65 | 17850 | United Kingdom |
+| 536365 | 21730 | GLASS STAR FROSTED T-LIGHT HOLDER | 6 | 2010-12-01 08:26 | 4.25 | 17850 | United Kingdom |
+| 536366 | 22633 | HAND WARMER UNION JACK | 6 | 2010-12-01 08:28 | 1.85 | 17850 | United Kingdom |
+| 536366 | 22632 | HAND WARMER RED POLKA DOT | 6 | 2010-12-01 08:28 | 1.85 | 17850 | United Kingdom |
+| 536367 | 84879 | ASSORTED COLOUR BIRD ORNAMENT | 32 | 2010-12-01 08:34 | 1.69 | 13047 | United Kingdom |
+
+> 📁 Full dataset: 541,909 rows × 8 columns — stored via Git LFS in this repo.
 
 ---
 
