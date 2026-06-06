@@ -11,7 +11,7 @@
 
 **A full-cycle EDA pipeline uncovering customer behavior, sales trends, and country-level insights from 541,909 real-world transaction records.**
 
-[📓 View Notebook](./DATA_ANALYSIS_EDA_PROJECT_COMPLETE.ipynb) · [![UCI](https://img.shields.io/badge/UCI-Dataset-orange?style=flat-square)](https://archive.ics.uci.edu/dataset/352/online+retail) [📊 Dataset](./data.csv) · [🐍 Source Script](./src.py)
+[📓 View Notebook](./DATA_ANALYSIS_EDA_PROJECT_COMPLETE.ipynb) · [📊 Dataset](./data.csv) · [🐍 Source Script](./src.py)
 
 </div>
 
