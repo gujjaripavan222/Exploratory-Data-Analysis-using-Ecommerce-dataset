@@ -11,7 +11,11 @@
 
 **A full-cycle EDA pipeline uncovering customer behavior, sales trends, and country-level insights from 541,909 real-world transaction records.**
 
-[📓 View Notebook](./DATA_ANALYSIS_EDA_PROJECT_COMPLETE.ipynb) · [📊 Dataset](./data.csv) · [🐍 Source Script](./src.py)
+[📓 View Notebook](./DATA_ANALYSIS_EDA_PROJECT_COMPLETE.ipynb) · [🐍 Source Script](./src.py)
+
+<br>
+
+[![View Dataset](https://img.shields.io/badge/👁️%20View%20Dataset-data.csv-blue?style=for-the-badge)](https://github.com/gujjaripavan222/Exploratory-Data-Analysis-using-Ecommerce-dataset/blob/main/data.csv)
 
 </div>
 
@@ -27,7 +31,8 @@ This project performs a comprehensive **Exploratory Data Analysis (EDA)** on a U
 - Price distribution analysis and anomaly detection
 - Identification of free/promotional products
 
-> **Dataset:** Hosted on GitHub — [View Raw CSV](https://raw.githubusercontent.com/gujjaripavan222/Explonatory-Data-Analysis-using-Ecommerce-dataset/refs/heads/main/data.csv)
+> **Dataset Source:** UCI Machine Learning Repository — [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+> **View Dataset:** [Browse data.csv on GitHub](https://github.com/gujjaripavan222/Exploratory-Data-Analysis-using-Ecommerce-dataset/blob/main/data.csv)
 
 ---
 
@@ -42,6 +47,21 @@ Exploratory-Data-Analysis-using-Ecommerce-dataset/
 ├── requirements.txt                            # Python dependencies
 └── README.md                                   # Project documentation
 ```
+
+---
+
+## 📊 Dataset
+
+<div align="center">
+
+[![View Dataset](https://img.shields.io/badge/👁️%20View%20Dataset-data.csv-blue?style=for-the-badge)](https://github.com/gujjaripavan222/Exploratory-Data-Analysis-using-Ecommerce-dataset/blob/main/data.csv)
+
+</div>
+
+Click the button above to **browse the dataset** directly on GitHub. If you need the file locally, use the **Download raw file** button on that page (top-right corner).
+
+> **Original Source:** [UCI Machine Learning Repository — Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
+> Daqing Chen, Sai Liang Sain, and Kun Guo — *Journal of Database Marketing and Customer Strategy Management*, 2012.
 
 ---
 
@@ -143,8 +163,8 @@ Derived time-based columns from `invoice_date`:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/gujjaripavan222/Explonatory-Data-Analysis-using-Ecommerce-dataset.git
-cd Explonatory-Data-Analysis-using-Ecommerce-dataset
+git clone https://github.com/gujjaripavan222/Exploratory-Data-Analysis-using-Ecommerce-dataset.git
+cd Exploratory-Data-Analysis-using-Ecommerce-dataset
 ```
 
 ### 2. Install Dependencies
